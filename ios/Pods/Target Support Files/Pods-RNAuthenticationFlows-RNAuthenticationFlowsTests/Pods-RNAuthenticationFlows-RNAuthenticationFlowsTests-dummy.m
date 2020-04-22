@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_RNAuthenticationFlows_RNAuthenticationFlowsTests : NSObject
+@end
+@implementation PodsDummy_Pods_RNAuthenticationFlows_RNAuthenticationFlowsTests
+@end

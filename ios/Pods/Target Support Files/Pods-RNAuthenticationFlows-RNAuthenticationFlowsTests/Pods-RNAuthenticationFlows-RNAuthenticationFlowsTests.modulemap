@@ -1,0 +1,6 @@
+module Pods_RNAuthenticationFlows_RNAuthenticationFlowsTests {
+  umbrella header "Pods-RNAuthenticationFlows-RNAuthenticationFlowsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
